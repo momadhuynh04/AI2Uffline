@@ -1,4 +1,21 @@
+# Configuration files with sensitive data
 config/Config.json
 config/AI2U_Config.json
+config/AI2U_Config.json.local
+
+# Logs
 *.log
+UltimateFix_Debug.txt
+
+# Save data
 savedata/
+*.yags
+
+# Temp files
+temp_tts.mp3
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
