@@ -1,0 +1,4 @@
+config/Config.json
+config/AI2U_Config.json
+*.log
+savedata/
