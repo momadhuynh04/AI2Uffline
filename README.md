@@ -13,6 +13,8 @@ A comprehensive modification and fix for **AI2U** in **Window** i havnt try it i
 
 ## ⚙️ Installation Guide
 
+You could download full version off the game from [FullGameWithFix](https://drive.google.com/drive/folders/1LO2G3EelAPuLpc1N7v6FIj9TRwp6BuW2?usp=sharing) , and make sure that you read the ReadMe.txt
+
 ### Prerequisites
 - **BepInEx (v5.x)** must be installed in your game's root directory. So you in BepIndex (**THIS SHIT IS NEEDED**) for this go to there githud download the zip file x64 i use the version x64 5.4.21.0 and you would want to extract it directly in to the game root folder then you will see a folder name BepInEx and two file **doorstop_config.ini and winhttp.dll**, if missing any do it again  
 
